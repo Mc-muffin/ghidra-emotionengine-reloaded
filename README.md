@@ -21,5 +21,5 @@ Release builds are available on the [releases](https://github.com/chaoticgd/ghid
 If you want to build the extension yourself, install `gradle` and run:
  
 ```
-gradle -PGHIDRA_INSTALL_DIR=/path/to/ghidra buildExtension
+gradle -PGHIDRA_INSTALL_DIR=/path/to/ghidra buildExtension 
 ```
